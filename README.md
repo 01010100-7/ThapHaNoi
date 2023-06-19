@@ -7,7 +7,7 @@ Hanoi game built with React, just for fun.
 
 # Installation
 ```
-
+git clone
 cd hanoi-react
 npm install
 npm start
